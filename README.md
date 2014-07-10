@@ -1,4 +1,6 @@
 stats-forever
 =============
 
-My first repository on GitHub!
+I'm Chitra, and I live in Perth, Australia.
+This is my first ever repository!
+I'm learning Data Science on Coursera.org.
